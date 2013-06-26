@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+bundle exec pry --simple-prompt -r ./bot_console.rb
+
